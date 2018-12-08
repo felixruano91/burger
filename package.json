@@ -21,7 +21,10 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
+    "fs": "0.0.1-security",
     "method-override": "^3.0.0",
-    "mysql": "^2.16.0"
+    "mysql": "^2.16.0",
+    "path": "^0.12.7",
+    "sequelize": "^4.41.2"
   }
 }
